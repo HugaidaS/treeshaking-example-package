@@ -1,5 +1,11 @@
 # @hugaida/reusable-components
 
+## 1.0.2
+
+### Patch Changes
+
+- 85ee226: Fixed package.json config to include treeshaking
+
 ## 1.0.1
 
 ### Patch Changes
